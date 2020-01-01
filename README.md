@@ -1,7 +1,7 @@
 # C-Led-Controller
 This is simple GUI application to control a 12v led strip, as the strip used was not individually addressible it uses a simple R,G,B and power connection to select which colour can be used. This appilcation makes it easy to select which colour will be used.
 
-Along with this is some diffrent modes that have been included if a single colour just isnt enough. 
+Along with this is some diffrent modes that have been included if a single colour just isnt enough. The setup was created using an ESP8266 and while the wifi library has been imported it is not used for anything currently. (future iteration of the solution)
 
 
 ## Screenshots
